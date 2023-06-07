@@ -1,0 +1,22 @@
+header,
+footer {
+  background-color: #ffa310;
+  color: #575656;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+h2 {
+  background-color: #ffa310;
+  color: #575656;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+input[type='submit'] {
+  color: white;
+  background-color: #575656;
+  border: none;
+  padding: 3px;
+  border-radius: 5px;
+}
